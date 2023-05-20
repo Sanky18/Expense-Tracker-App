@@ -1,7 +1,7 @@
 import os
 import streamlit as st  # pip install streamlit
 from deta import Deta  # pip install deta
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 
 # Load the environment variables
 # load_dotenv(".env")
